@@ -1,0 +1,27 @@
+{
+  "name": "@rispa/webpack-css",
+  "rispa:name": "webpack-css",
+  "version": "0.1.0",
+  "description": "rispa plugin which provide webpack css configuration",
+  "license": "MIT",
+  "scripts": {
+    "lint": "rispa-eslint .",
+    "lint:fix": "rispa-eslint . --fix"
+  },
+  "dependencies": {
+    "@rispa/config": "2.1.1",
+    "@rispa/core": "^2.1.1",
+    "@rispa/server": "^2.1.1",
+    "@webpack-blocks/webpack2": "^0.4.0",
+    "css-loader": "^0.28.4",
+    "postcss": "^6.0.8",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-import": "^10.0.0",
+    "postcss-loader": "^2.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {
+    "@rispa/eslint-config": "2.0.1"
+  }
+}
