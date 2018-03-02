@@ -1,4 +1,6 @@
 # Rispa Webpack CSS [![Build Status](https://api.travis-ci.org/rispa-io/rispa-webpack-css.svg?branch=master)](https://travis-ci.org/rispa-io/rispa-webpack-css)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rispa-io/rispa-webpack-css.svg)](https://greenkeeper.io/)
 **Rispa** plugin with `webpack` configuration for *CSS*
 
 ## How to use
