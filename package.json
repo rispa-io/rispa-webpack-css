@@ -9,19 +9,19 @@
     "lint:fix": "rispa-eslint . --fix"
   },
   "dependencies": {
-    "@rispa/config": "2.1.1",
-    "@rispa/core": "^2.1.1",
-    "@rispa/server": "^2.1.1",
+    "@rispa/config": "4.2.1",
+    "@rispa/core": "^4.2.1",
+    "@rispa/server": "^4.2.1",
     "@webpack-blocks/webpack2": "^0.4.0",
     "css-loader": "^0.28.4",
     "postcss": "^6.0.8",
     "postcss-cssnext": "^3.0.2",
-    "postcss-import": "^10.0.0",
+    "postcss-import": "^11.1.0",
     "postcss-loader": "^2.0.6",
-    "style-loader": "^0.18.2",
-    "webpack": "^2.4.1"
+    "style-loader": "^0.20.2",
+    "webpack": "^4.0.1"
   },
   "devDependencies": {
-    "@rispa/eslint-config": "2.0.1"
+    "@rispa/eslint-config": "3.1.0"
   }
 }
